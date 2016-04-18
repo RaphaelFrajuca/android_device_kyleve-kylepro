@@ -25,7 +25,7 @@ PRODUCT_COPY_FILES += \
 
 # Configs
 PRODUCT_COPY_FILES += \
-    device/samsung/kylepro/configs/media_codecs.xml:system/etc/media_codecs.xml
+    device/samsung/kyleve/configs/media_codecs.xml:system/etc/media_codecs.xml
 
 # Insecure ADB
 ADDITIONAL_DEFAULT_PROPERTIES += \
